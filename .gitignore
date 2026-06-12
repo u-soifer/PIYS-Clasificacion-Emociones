@@ -1,0 +1,26 @@
+# Dataset (35k imágenes — demasiado grande para GitHub)
+../Dataset/
+
+# Artefactos de entrenamiento
+*.npy
+*.pt
+*.pkl
+
+# Archivos generados
+*.png
+normalization_stats.csv
+df_train_split.csv
+df_val_split.csv
+df_test_split.csv
+model_comparison.csv
+final_model_comparison.csv
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+*.egg-info/
+
+# Sistema
+.DS_Store
+Thumbs.db
