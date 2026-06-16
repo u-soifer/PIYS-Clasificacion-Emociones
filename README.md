@@ -43,7 +43,7 @@ TP/
 7 clases: `angry`, `disgusted`, `fearful`, `happy`, `neutral`, `sad`, `surprised`  
 Train: 28,709 imágenes · Test: 7,178 imágenes · Resolución: 48×48 px (escala de grises)
 
-> El dataset no está incluido en el repositorio. Descargar desde [Kaggle FER2013](https://www.kaggle.com/datasets/msambare/fer2013) y ubicar en `../Dataset/train/` y `../Dataset/test/`.
+> El dataset no está incluido en el repositorio. Descargar desde [Kaggle FER2013](https://www.kaggle.com/datasets/ananthu017/emotion-detection-fer?resource=download) y ubicar en `../Dataset/train/` y `../Dataset/test/`.
 
 ---
 
